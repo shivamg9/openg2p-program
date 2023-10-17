@@ -8,15 +8,15 @@
     "website": "https://openg2p.org",
     "license": "Other OSI approved licence",
     "development_status": "Alpha",
-    "depends": ["spp_programs"],  
+    "depends": ["spp_programs"],
     "data": [
         "views/in_kind.xml",
     ],
     "assets": {
         "web.assets_backend": [],
         "web.assets_qweb": [],
-        "web.assets_frontend":[],
-        "web.assets_common":[],
+        "web.assets_frontend": [],
+        "web.assets_common": [],
     },
     "demo": [],
     "images": [],

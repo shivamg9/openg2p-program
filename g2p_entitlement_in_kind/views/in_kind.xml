@@ -8,7 +8,9 @@
                 <attribute name="invisible">1</attribute>
             </xpath>
             <xpath expr="//button[@name='enroll_eligible_registrants']" position="attributes">
-                <attribute name="groups">g2p_programs.g2p_program_validator, g2p_programs.g2p_program_cycle_approver, g2p_programs.g2p_program_manager</attribute>
+                <attribute
+                    name="groups"
+                >g2p_programs.g2p_program_validator, g2p_programs.g2p_program_cycle_approver, g2p_programs.g2p_program_manager</attribute>
             </xpath>
         </field>
     </record>
